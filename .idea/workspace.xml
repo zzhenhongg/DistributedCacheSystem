@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b060111-6d90-4b72-874f-2094926b90f1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$PROJECT_DIR$/../../../../../Program Files/Go" />
+  <component name="ProjectId" id="1u7ykx6SeMyVaBeaWF4lPcb71UT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Go Test.TestOnEvicted in DistributedCacheSystem/lru">
+    <configuration name="TestCache_RemoveOldest in DistributedCacheSystem/lru" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="DistributedCacheSystem" />
+      <working_directory value="$PROJECT_DIR$/lru" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="DistributedCacheSystem/lru" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestCache_RemoveOldest\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGet in DistributedCacheSystem/lru" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="DistributedCacheSystem" />
+      <working_directory value="$PROJECT_DIR$/lru" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="DistributedCacheSystem/lru" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestGet\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestOnEvicted in DistributedCacheSystem/lru" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="DistributedCacheSystem" />
+      <working_directory value="$PROJECT_DIR$/lru" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="DistributedCacheSystem/lru" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestOnEvicted\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestOnEvicted in DistributedCacheSystem/lru" />
+        <item itemvalue="Go Test.TestCache_RemoveOldest in DistributedCacheSystem/lru" />
+        <item itemvalue="Go Test.TestGet in DistributedCacheSystem/lru" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2619" y="432" key="#GOROOT" timestamp="1624031312873">
+      <screen x="1983" y="0" width="1473" height="864" />
+    </state>
+    <state x="2619" y="432" key="#GOROOT/1983.0.1473.864/79.0.1841.1080@1983.0.1473.864" timestamp="1624031312873" />
+    <state x="874" y="540" key="#GOROOT/1983.0.1473.864/79.0.1841.1080@79.0.1841.1080" timestamp="1624031219860" />
+    <state x="2431" y="205" key="#Go_Modules" timestamp="1624069844375">
+      <screen x="1983" y="0" width="1473" height="864" />
+    </state>
+    <state x="2431" y="205" key="#Go_Modules/1983.0.1473.864/79.0.1841.1080@1983.0.1473.864" timestamp="1624069844375" />
+    <state x="2607" y="257" key="FileChooserDialogImpl" timestamp="1624031311755">
+      <screen x="1983" y="0" width="1473" height="864" />
+    </state>
+    <state x="2607" y="257" key="FileChooserDialogImpl/1983.0.1473.864/79.0.1841.1080@1983.0.1473.864" timestamp="1624031311755" />
+    <state width="1485" height="268" key="GridCell.Tab.0.bottom" timestamp="1624081323545">
+      <screen x="1983" y="0" width="1473" height="864" />
+    </state>
+    <state width="1485" height="268" key="GridCell.Tab.0.bottom/1983.0.1473.864/79.0.1841.1080@1983.0.1473.864" timestamp="1624081323545" />
+    <state width="1485" height="268" key="GridCell.Tab.0.center" timestamp="1624081323545">
+      <screen x="1983" y="0" width="1473" height="864" />
+    </state>
+    <state width="1485" height="268" key="GridCell.Tab.0.center/1983.0.1473.864/79.0.1841.1080@1983.0.1473.864" timestamp="1624081323545" />
+    <state width="1485" height="268" key="GridCell.Tab.0.left" timestamp="1624081323545">
+      <screen x="1983" y="0" width="1473" height="864" />
+    </state>
+    <state width="1485" height="268" key="GridCell.Tab.0.left/1983.0.1473.864/79.0.1841.1080@1983.0.1473.864" timestamp="1624081323545" />
+    <state width="1485" height="268" key="GridCell.Tab.0.right" timestamp="1624081323545">
+      <screen x="1983" y="0" width="1473" height="864" />
+    </state>
+    <state width="1485" height="268" key="GridCell.Tab.0.right/1983.0.1473.864/79.0.1841.1080@1983.0.1473.864" timestamp="1624081323545" />
+    <state width="1485" height="268" key="GridCell.Tab.1.bottom" timestamp="1624081323546">
+      <screen x="1983" y="0" width="1473" height="864" />
+    </state>
+    <state width="1485" height="268" key="GridCell.Tab.1.bottom/1983.0.1473.864/79.0.1841.1080@1983.0.1473.864" timestamp="1624081323546" />
+    <state width="1485" height="268" key="GridCell.Tab.1.center" timestamp="1624081323546">
+      <screen x="1983" y="0" width="1473" height="864" />
+    </state>
+    <state width="1485" height="268" key="GridCell.Tab.1.center/1983.0.1473.864/79.0.1841.1080@1983.0.1473.864" timestamp="1624081323546" />
+    <state width="1485" height="268" key="GridCell.Tab.1.left" timestamp="1624081323546">
+      <screen x="1983" y="0" width="1473" height="864" />
+    </state>
+    <state width="1485" height="268" key="GridCell.Tab.1.left/1983.0.1473.864/79.0.1841.1080@1983.0.1473.864" timestamp="1624081323546" />
+    <state width="1485" height="268" key="GridCell.Tab.1.right" timestamp="1624081323546">
+      <screen x="1983" y="0" width="1473" height="864" />
+    </state>
+    <state width="1485" height="268" key="GridCell.Tab.1.right/1983.0.1473.864/79.0.1841.1080@1983.0.1473.864" timestamp="1624081323546" />
+    <state x="1983" y="0" key="SettingsEditor" timestamp="1624031548717">
+      <screen x="1983" y="0" width="1473" height="864" />
+    </state>
+    <state x="1983" y="0" key="SettingsEditor/1983.0.1473.864/79.0.1841.1080@1983.0.1473.864" timestamp="1624031548717" />
+    <state x="2267" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1624073159382">
+      <screen x="1983" y="0" width="1473" height="864" />
+    </state>
+    <state x="2267" y="-1" width="840" height="1034" key="search.everywhere.popup/1983.0.1473.864/79.0.1841.1080@1983.0.1473.864" timestamp="1624073159382" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/lru/lru_test.go</url>
+          <line>51</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
